@@ -17,7 +17,8 @@ public class Ejercicio4 {
 	 * 
 	 */
 	
-	public static ...
+	public static void numSecuencias ()
+	
 	
 	/*
 	 * 1 punto

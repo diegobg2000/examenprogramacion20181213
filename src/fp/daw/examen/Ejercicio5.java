@@ -1,5 +1,6 @@
 package fp.daw.examen;
 
+
 public class Ejercicio5 {
 
 	/* 
@@ -16,8 +17,10 @@ public class Ejercicio5 {
 	 */
 	
 	public static void main(String[] args) {
+		java.util.Scanner in = new Scanner (System.in);
+		System.out.println("Introduzca un numero");
+		int n = in.nextInt();
 		
-
 	}
 
 }

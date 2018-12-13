@@ -14,8 +14,15 @@ public class Ejercicio1 {
 	 * donde num1, num2, num3, ..., numN son los números almacenados en el vector.
 	 */
 	
-	public static ...
-	
+	public static void mostrarVector(int [] numeros) {
+		numeros = new int[numeros.length];
+		for(int i=0; i<numeros.length; i++){
+			numeros[i]= r;    
+
+		}
+		
+	}
+
 	/* 
 	 * 1 punto
 	 * 
